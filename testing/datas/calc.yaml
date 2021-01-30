@@ -1,0 +1,13 @@
+add:
+  datas:
+    -[1,1,2]
+    -[-1,1,0]
+    -['-0','1','无效数据']
+  ids: ['int','zero','bignum','minus','result0']
+div:
+  datas:
+    -[2,1,2]
+    -['3','0','无效除数']
+    -[-8,2,-4]
+    -[0,3,0]
+  ids: ['int','zero','bignum','minus','result0']
